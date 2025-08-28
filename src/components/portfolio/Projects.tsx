@@ -6,11 +6,11 @@ const Projects = () => {
   const projects = [
     {
       title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution with React, Node.js, and PostgreSQL. Features include user authentication, payment processing, and inventory management.",
-      technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
+      description: "A full-stack e-commerce solution with React, ASP .NET Core, and SQL Server. Features include user authentication, payment processing, and inventory management.",
+      technologies: ["React", "ASP .NET Core", "SQL Server", "Stripe"],
       image: "🛒",
       demoUrl: "#",
-      codeUrl: "#",
+      codeUrl: "https://github.com/NamLongVu/CleanArchitecture",
       status: "Planning"
     },
     {
