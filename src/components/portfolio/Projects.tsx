@@ -16,10 +16,10 @@ const Projects = () => {
     {
       title: "Food Donation Website",
       description: "A web platform inspired by Too Good To Go that connects restaurants with surplus food to people looking for affordable meals. The goal is to reduce food waste by allowing users to browse and reserve leftover meals from local restaurants before they’re discarded.",
-      technologies: ["React", "ASP .NET", "Socket.io", "SQL Server"],
+      technologies: ["React", "Spring Boot", "Socket.io", "My SQL"],
       image: "🍱",
       demoUrl: "#",
-      codeUrl: "#",
+      codeUrl: "https://github.com/NamLongVu/FoodDonation_Backend/tree/main",
       status: "Planning"
     },
     {
